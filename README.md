@@ -5,7 +5,7 @@
 #
 # <img src="Screenshot (53).png">
 #
-# > I got this Certificate when I am 13 years old (Grade 8D).
+> I got this Certificate when I am 13 years old (Grade 8D).
 
 #
 #
